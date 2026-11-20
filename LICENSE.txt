@@ -1,0 +1,9 @@
+Copyright (c) 2026 JinJanMcFlan. All rights reserved.
+
+Training Room is proprietary software. No open-source license is granted for
+Training Room source code by this distribution repository.
+
+The installer is provided for the invited Training Room test. Third-party
+components retain their own licenses and notices included in the application.
+
+Contact: jinjanmcflan@gmail.com
